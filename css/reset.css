@@ -1,0 +1,15 @@
+.slogn .iconfont{
+   position: absolute;
+   top:10%;
+   left:5%; 
+   font-size: 60px;
+   color:#8effff;
+}
+.slogn .own{
+   font-size: 48px;
+   font-family: fantasy;
+   position: absolute;
+   top: 11%;
+   left: 9%;
+   color:#76dba3;
+}
